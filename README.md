@@ -1,9 +1,5 @@
 # mixt
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Fashion TV est une chaîne de télévision basée au mode.","sourceCam":["http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM0MzUyOTZf/fashionmidi.png","titleCam":"FASHION TV"},
-
-
-{"descriptionCam":"Fashion TV est une chaîne de télévision basée au mode.","sourceCam":["http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM0MzUyOTZf/fashionmidi.png","titleCam":"FASHION TV"},
-
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Fashion TV est une chaîne de télévision basée au mode.","sourceCam":["http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM0MzUyOTZf/fashionmidi.png","titleCam":"FASHION TV"},{"descriptionCam":"Diva TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sourceCam":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/diva/1ad6f99d-4269-4b42-9e6e-4b7de4be78e3/0.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYwMDA3Mjlf/diva.jpg","titleCam":"DIVA TV"},
 
 {"descriptionCam":"Lol Africa TV est une chaîne de télévision de divertissement africains.","sourceCam":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/lol/0b78bd62-8ef5-4ca2-9435-a991e1872606/1.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYwMDA2ODNf/lolafrica.jpg","titleCam":"LOL AFRICA TV"},{"descriptionCam":"Pulse P TV est une chaîne de télévision de divertissement africains.","sourceCam":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pulse/c8879eaf-ec6a-4f25-a639-6bb8e04706df/1.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYwMDA2ODdf/pulsep.jpg","titleCam":"PULSE P TV"},
 
