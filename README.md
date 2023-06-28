@@ -5,7 +5,7 @@
 
 {"descriptionCam":"Lol Africa TV est une chaîne de télévision de divertissement africains.","sourceCam":["https://origin3.afxp.telemedia.co.za/PremiumFree/lol/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYwMDA2ODNf/lolafrica.jpg","titleCam":"LOL AFRICA TV"},
 
-{"descriptionCam":"FAILARMY TV est une chaîne de Télévision généraliste","sourceCam":["https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2ODkyNTVf/Canaf54.jpeg","titleCam":"FAILARMY TV"},
+{"descriptionCam":"FAILARMY TV est une chaîne de Télévision généraliste","sourceCam":["https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTA5Nzc1NDJf/failarmy.png","titleCam":"FAILARMY TV"},
 
 {"descriptionCam":"ETVN TV est une chaîne de télévision de divertissement.","sourceCam":["https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTA5NzcyNjZf/EntrepreneursTVNetwork.jpg","titleCam":"ETVN"},
 
