@@ -7,7 +7,7 @@
 
 {"descriptionCam":"FAILARMY TV est une chaîne de Télévision généraliste","sourceCam":["https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2ODkyNTVf/Canaf54.jpeg","titleCam":"FAILARMY TV"},
 
-{"descriptionCam":"ETVN TV est une chaîne de télévision de divertissement.","sourceCam":["https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYwMDA2ODNf/lolafrica.jpg","titleCam":"ETVN"},
+{"descriptionCam":"ETVN TV est une chaîne de télévision de divertissement.","sourceCam":["https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTA5NzcyNjZf/EntrepreneursTVNetwork.jpg","titleCam":"ETVN"},
 
 {"descriptionCam":"Fresh TV est une chaîne de télévision de divertissement","sourceCam":["https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTA5NzcxNTNf/freshtv.jpeg","titleCam":"FRESH TV"},
 
@@ -16,6 +16,6 @@
 {"descriptionCam":"Lime lights TV est une chaîne de télévision de divertissement","sourceCam":["https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTA5NzcxNjZf/limelight.png","titleCam":"LIME LIGHTS TV"},
 
 
-{"descriptionCam":"RPM TV est une chaîne de télévision de divertissement","sourceCam":["https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYwMDA2ODNf/lolafrica.jpg","titleCam":"RPM TV"},
+{"descriptionCam":"RPM TV est une chaîne de télévision de divertissement","sourceCam":["https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTA5Nzc0MTZf/rpm.jpeg","titleCam":"RPM TV"},
 
-{"descriptionCam":"Tigger TV est une chaîne de télévision de divertissement","sourceCam":["https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYwMDA2ODNf/lolafrica.jpg","titleCam":"TIGGER TV"}]}]}
+{"descriptionCam":"Trigger TV est une chaîne de télévision de divertissement","sourceCam":["https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTA5Nzc0MTdf/trigger.jpeg","titleCam":"TRIGGER TV"}]}]}
