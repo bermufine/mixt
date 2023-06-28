@@ -9,11 +9,11 @@
 
 {"descriptionCam":"ETVN TV est une chaîne de télévision de divertissement.","sourceCam":["https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYwMDA2ODNf/lolafrica.jpg","titleCam":"ETVN"},
 
-{"descriptionCam":"Fresh TV est une chaîne de télévision de divertissement","sourceCam":["https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYwMDA2ODNf/lolafrica.jpg","titleCam":"FRESH TV"},
+{"descriptionCam":"Fresh TV est une chaîne de télévision de divertissement","sourceCam":["https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTA5NzcxNTNf/freshtv.jpeg","titleCam":"FRESH TV"},
 
-{"descriptionCam":"Life TV est une chaîne de télévision de divertissement","sourceCam":["https://origin3.afxp.telemedia.co.za/PremiumFree/lifetv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYwMDA2ODNf/lolafrica.jpg","titleCam":"LIFE TV"},
+{"descriptionCam":"Life TV est une chaîne de télévision de divertissement","sourceCam":["https://origin3.afxp.telemedia.co.za/PremiumFree/lifetv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTA5NzcxNTdf/lifetv.jpeg","titleCam":"LIFE TV"},
 
-{"descriptionCam":"Lime lights TV est une chaîne de télévision de divertissement","sourceCam":["https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYwMDA2ODNf/lolafrica.jpg","titleCam":"LIME LIGHTS TV"},
+{"descriptionCam":"Lime lights TV est une chaîne de télévision de divertissement","sourceCam":["https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTA5NzcxNjZf/limelight.png","titleCam":"LIME LIGHTS TV"},
 
 
 {"descriptionCam":"RPM TV est une chaîne de télévision de divertissement","sourceCam":["https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYwMDA2ODNf/lolafrica.jpg","titleCam":"RPM TV"},
